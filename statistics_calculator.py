@@ -23,6 +23,3 @@ statistics_calculation = calculate(numeric_input)
 print(statistics_calculation)
 
 
-#this line of code turn int to float
-integer = int(input('your number: '))
-print(float(integer))
